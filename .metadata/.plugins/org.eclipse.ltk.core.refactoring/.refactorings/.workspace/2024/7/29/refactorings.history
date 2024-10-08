@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;XmateNotesSDK&apos;" deleteContents="true" description="Delete resource &apos;XmateNotesSDK&apos;" element1="/XmateNotesSDK" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1721032370245"/>&#x0A;<refactoring comment="Delete resource &apos;Student-Information-Management-System&apos;" deleteContents="true" description="Delete resource &apos;Student-Information-Management-System&apos;" element1="/Student-Information-Management-System" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1721032377143"/>
+</session>
